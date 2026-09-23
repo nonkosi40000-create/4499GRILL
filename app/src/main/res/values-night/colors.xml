@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF121212</color>
+    <color name="card_background">#FF1E1E1E</color>
+    <color name="primary_brown">#D7CCC8</color>
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#BDBDBD</color>
+    <color name="input_stroke">#333333</color>
+    <color name="background_overlay">#B3000000</color>
+    <color name="light_cream">#121212</color>
+    <color name="bottom_nav_inactive">#757575</color>
+    <color name="screen_background">#000000</color>
+    <color name="order_header_bg">#1A1A1A</color>
+    <color name="delivery_badge_bg">#D7CCC8</color>
+    <color name="total_amount_color">#FFAB91</color>
+    <color name="tip_button_bg">#2C2C2C</color>
+    <color name="tip_button_selected_bg">#D7CCC8</color>
+    <color name="contact_support_stroke">#424242</color>
+</resources>

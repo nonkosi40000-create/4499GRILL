@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">4499GRILL</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_subtitle">Sign in to access your premium dining experience.</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_hint">your@email.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">••••••••</string>
+    <string name="forgot_password">Forgot?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_to_grill">New to 4499 GRILL? </string>
+    <string name="create_account">Create Account</string>
+    <string name="secured_by">SECURED BY 4499</string>
+
+    <!-- Home Screen -->
+    <string name="current_location">CURRENT LOCATION</string>
+    <string name="location_value">Cape Town, CBD</string>
+    <string name="ai_title">Don\'t know what to\norder?\nAsk our AI.</string>
+    <string name="ai_description">Describe your craving, and our culinary AI will\ncraft the perfect premium meal suggestion\nfrom our flame-grilled menu.</string>
+    <string name="ai_hint">I\'m craving something s</string>
+    <string name="taste">Taste \u2192</string>
+    <string name="todays_specials">Today\'s Specials</string>
+    <string name="view_all">View all \u203A</string>
+    <string name="new_arrival">New Arrival</string>
+    <string name="item_title">Double Cheese Smash</string>
+    <string name="item_description">Two perfectly charred patties, house sauce, pic</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_profile">Profile</string>
+    <string name="price_tag">R78.99</string>
+
+    <!-- Categories Section -->
+    <string name="categories">Categories</string>
+    <string name="cat_burgers">Burgers</string>
+    <string name="cat_grill">Grill</string>
+    <string name="cat_drinks">Drinks</string>
+    <string name="cat_desserts">Desserts</string>
+    <string name="cat_sides">Sides</string>
+    <string name="cat_hot_deals">Hot Deals</string>
+
+    <!-- Favorites Section -->
+    <string name="based_on_favorites">Based on your favorites</string>
+    <string name="item_truffle_title">Truffle Mushroom Swiss</string>
+    <string name="item_truffle_desc">Prime beef patty, roasted field mushrooms, swiss cheese, truffl...</string>
+    <string name="item_truffle_price">R95.00</string>
+    <string name="item_wings_title">Sticky BBQ Wings</string>
+    <string name="item_wings_desc">6 Flame-grilled wings basted in our signature smoky BBQ sauce.</string>
+    <string name="item_wings_price">R65.00</string>
+    <string name="item_shake_title">Classic Vanilla Shake</string>
+    <string name="item_shake_desc">Thick hand-spun shake made with real vanilla bean ice cream.</string>
+    <string name="item_shake_price">R45.00</string>
+
+    <!-- Order Status & Details Screen -->
+    <string name="estimated_delivery">ESTIMATED DELIVERY</string>
+    <string name="est_time_range">15 - 25 min</string>
+    <string name="order_status_title">Order Status</string>
+    <string name="order_received">ORDER RECEIVED</string>
+    <string name="order_received_desc">We\'ve got your order and are prepping the kitchen.</string>
+    <string name="grilling">GRILLING...</string>
+    <string name="grilling_desc">Your food is on the fire, getting that perfect char.</string>
+    <string name="out_for_delivery">OUT FOR DELIVERY</string>
+    <string name="out_for_delivery_desc">Rider is on the way with your hot meal.</string>
+    <string name="delivery_status_msg">Rider is on the way with your hot meal.</string>
+    <string name="order_number">Order #4499</string>
+    <string name="delivery_badge">DELIVERY</string>
+    <string name="item_qty_1x">1x</string>
+    <string name="item_1_title">Double Cheese Smash</string>
+    <string name="item_1_desc">No pickles, extra sauce</string>
+    <string name="item_1_price">R78.99</string>
+    <string name="item_2_title">Rustic Fries (L)</string>
+    <string name="item_2_price">R35.00</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="subtotal_value">R113.99</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="delivery_fee_value">R25.00</string>
+    <string name="total">Total</string>
+    <string name="total_value">R138.99</string>
+    <string name="tip_rider">TIP YOUR RIDER</string>
+    <string name="tip_10">10%</string>
+    <string name="tip_15">15%</string>
+    <string name="tip_20">20%</string>
+    <string name="tip_custom">Custom</string>
+    <string name="tip_disclaimer">100% of tips go to your rider.</string>
+    <string name="contact_support">Contact Support</string>
+
+    <!-- Community Screen Strings -->
+    <string name="share_experience_hint">Share your 4499 Grill experience…</string>
+    <string name="author_name">Sarah Jenkins</string>
+    <string name="post_time_info">2 hours ago • Verified Order</string>
+    <string name="likes_count">245</string>
+    <string name="comments_count">18</string>
+    <string name="sarah_caption_full"><b>Sarah Jenkins</b>  The Double Cheese Smash is literally the best burger I\'ve had in this city. The char on the edges is perfection! \ud83d\udd25 \ud83c\udf54\n#SmashBurgerChallenge</string>
+    <string name="mike_comment_full"><b>Mike R.</b>  Looks amazing! Did you get the spicy mayo?</string>
+    <string name="grill_reply_full"><b>4499 GRILL</b>  Thanks Sarah! Glad you loved the crisp! \ud83d\ude4c</string>
+    <string name="view_all_comments">View all 18 comments</string>
+    <string name="chef_tony_name">Chef Tony</string>
+    <string name="chef_tony_info">5 hours ago • Local Guide</string>
+
+    <!-- Profile Screen -->
+    <string name="personal_info">Personal Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_hint">+27 82 123 4567</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="saved_addresses">Saved Addresses</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="order_history">Order History</string>
+    <string name="preferences">Preferences</string>
+    <string name="notifications">Notifications</string>
+    <string name="language">Language</string>
+    <string name="logout">Log Out</string>
+    <string name="update_profile">Update Profile</string>
+
+    <!-- Item Detail Strings -->
+    <string name="choice_of_patties">Choice of Patties</string>
+    <string name="beef_patty">Prime Beef Patty</string>
+    <string name="chicken_patty">Grilled Chicken Breast</string>
+    <string name="add_ons">Add-ons</string>
+    <string name="extra_cheese">Extra Cheese</string>
+    <string name="extra_bacon">Extra Crispy Bacon</string>
+    <string name="special_instructions">Special Instructions</string>
+    <string name="special_instructions_hint">Any allergies or special requests?</string>
+    <string name="add_to_basket">Add to Basket</string>
+
+    <!-- Dashboard Specific -->
+    <string name="no_complaints_msg">No complaints or ratings logged for today.</string>
+
+    <!-- Chat Screen -->
+    <string name="chat_header">Order Support Chat</string>
+    <string name="chat_hint">Type a message...</string>
+    <string name="btn_send">Send</string>
+
+    <!-- Manager Dashboard -->
+    <string name="manager_portal">Executive Manager Portal</string>
+    <string name="staff_requests">Staff Registration Requests</string>
+    <string name="financial_oversight">Financial Oversight</string>
+    <string name="staff_management">Staff Shift Management</string>
+    <string name="btn_publish_timetable">Publish Timetable</string>
+    <string name="btn_update_stock">Update Stock Levels</string>
+    <string name="btn_manage_ads">Manage Marketing Ads</string>
+    <string name="btn_sign_out">Sign Out</string>
+</resources>
